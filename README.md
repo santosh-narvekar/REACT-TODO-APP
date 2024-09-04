@@ -5,7 +5,7 @@
 
 **FEATURES**
 - Clean Folder Structure
-- Global Hook for functions
+- Global Context for functions
 - State Management across components via prop drilling
 - pass state as props update via callbacks
 
